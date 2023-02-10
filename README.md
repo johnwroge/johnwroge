@@ -1,6 +1,8 @@
 
 <h1> About Me </h1> 
 
+:wave: hi! 
+
  🔭 Software Engineer passionate in building, testing, and enhancing features with new and proven methods. 
 
  🌱 Eager to collaborate on inclusive Open Source products for the developer community.
@@ -10,8 +12,14 @@
  📫 You can reach me at wrogejohn@gmail.com
 
  • In my free time I'm an avid guitarist, runner, and cook! 
+<h2> Social </h2>
 
-<h3> Tech Stack </h3>
+
+<h2> Tech Stack </h2>
+
+
+
+
 <!--
 **johnwroge/johnwroge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
