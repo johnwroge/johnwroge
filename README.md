@@ -1,21 +1,22 @@
 
 <h1> About Me </h1> 
 
-:wave: hi! 
+:wave: Hi, I'm John! 
 
- 🔭 Software Engineer passionate in building, testing, and enhancing features with new and proven methods. 
+ 🔭 Software Engineer passionate in building, and enhancing features with new and proven methods. 
 
  🌱 Eager to collaborate on inclusive Open Source products for the developer community.
 
  💬 Ask me about Zeus ⚡ a new OS Kubernetes Graphical UI built to acquire & display cluster metrics. 
 
- 📫 You can reach me at wrogejohn@gmail.com
+ :bulb: You can reach me at wrogejohn@gmail.com
 
- • In my free time I'm an avid guitarist, runner, and cook! 
-<h2> Social </h2>
+ :desert_island: In my free time I'm an avid guitarist, runner, and cook! 
+
+<h2> :earth_americas: Social </h2>
 
 
-<h2> Tech Stack </h2>
+<h2> :desktop_computer: Tech Stack </h2>
 
 
 
