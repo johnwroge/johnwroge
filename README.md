@@ -8,8 +8,8 @@
  💬 Ask me about Zeus ⚡ a new OS Kubernetes Graphical UI built to acquire & display cluster metrics. 
 
  📫 You can reach me at wrogejohn@gmail.com
- 
- ⚡  Fun fact: I'm an avid guitarist, runner, and cook! 
+
+ • In my free time I'm an avid guitarist, runner, and cook! 
 
 <h3> Tech Stack </h3>
 <!--
