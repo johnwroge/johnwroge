@@ -1,9 +1,9 @@
 
 <h1> About Me </h1> 
 
- 🔭 Software Engineer passionate in building, testing, and advancing   
- 🌱 Eager to collaborate on new and inclusive Open Source products for the developer community.
- 💬 Ask me about Zeus ⚡ a new OS Kubernetes Graphical UI built to acquire cluster metrics. 
+ 🔭 Software Engineer passionate in building, testing, and enhancing features with new and proven methods.  
+ 🌱 Eager to collaborate on inclusive Open Source products for the developer community.
+ 💬 Ask me about Zeus ⚡ a new OS Kubernetes Graphical UI built to acquire & display cluster metrics. 
  📫 You can reach me at wrogejohn@gmail.com
  ⚡  Fun fact: I'm an avid guitarist, runner, and cook! 
 
