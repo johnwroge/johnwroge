@@ -9,7 +9,7 @@
 
  💬 Ask me about Zeus ⚡ a new OS Kubernetes Graphical UI built to acquire & display cluster metrics. 
 
- :bulb: You can reach me at wrogejohn@gmail.com or <a href = "linkedin.com">LinkedIn </a>
+ :bulb: You can reach me at wrogejohn@gmail.com or through [LinkedIn](https://https://www.linkedin.com/in/john-wroge/).
  :desert_island: In my free time I'm an avid guitarist :guitar: runner :runner: and cook :ramen: 
 
 <h2> :earth_americas: Social </h2>
