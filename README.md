@@ -2,23 +2,14 @@
 <h1> :ringed_planet: About Me </h1> 
 
 :wave: Hi and Welcome!
-
   :star2: I'm John, a Software Engineer excited about building, testing, and deploying new products. 
-
  🌱 Always eager to collaborate on inclusive open source tools for the developer community.
-
  💬 Ask me about Zeus ⚡ an open source Kubernetes Graphical UI built to display cluster metrics from Prometheus and Grafana. 
-
  :desert_island: In my free time I'm an avid guitarist :guitar: runner :runner: and cook :ramen: 
-
 <h2> :earth_americas: Social </h2>
-
 <a href = "https://www.linkedin.com/in/john-wroge/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <br>
  :envelope_with_arrow: Contact me at wrogejohn@gmail.com 
-
-<!-- ![LinkedIn]() -->
-
 <h2> :desktop_computer: Tech Stack </h2>
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
