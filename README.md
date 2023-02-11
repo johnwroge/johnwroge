@@ -19,9 +19,9 @@
 
 <h2> :desktop_computer: Tech Stack </h2>
 
-https://img.shields.io/static/v1?logo=linkedin<LABEL>&message=LinkedIn<MESSAGE>&color=blue<COLOR>
+[React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)]
 
-<!-- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+<!-- ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)]
  -->
 <!-- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) -->
 
