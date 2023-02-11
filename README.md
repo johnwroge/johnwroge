@@ -19,7 +19,7 @@
 
 <h2> :desktop_computer: Tech Stack </h2>
 
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)]
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
 
 <!-- ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)]
  -->
