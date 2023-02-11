@@ -1,4 +1,5 @@
 
+<meta name="John Wroge" content="John Wroge, John Wroge"/>
 <h1> :ringed_planet: About Me </h1> 
 
 :wave: Hi and Welcome!
