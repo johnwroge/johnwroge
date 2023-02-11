@@ -1,9 +1,9 @@
 
 <h1> :ringed_planet: About Me </h1> 
 
-:wave: Hi!
+:wave: Hi and Welcome!
 
-  :star2: I'm a Software Engineer driven to build, test, and deploy new products. 
+  :star2: I'm John, a Software Engineer excited to build, test, and deploy new products. 
 
  🌱 Eager to collaborate on inclusive Open Source tools for the developer community.
 
