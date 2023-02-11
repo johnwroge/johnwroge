@@ -3,11 +3,11 @@
 
 :wave: Hi and Welcome!
 
-  :star2: I'm John, a Software Engineer excited to build, test, and deploy new products. 
+  :star2: I'm John, a Software Engineer excited about building, testing, and deploying new products. 
 
- 🌱 Eager to collaborate on inclusive Open Source tools for the developer community.
+ 🌱 Always eager to collaborate on inclusive open source tools for the developer community.
 
- 💬 Ask me about Zeus ⚡ an open source Kubernetes Graphical UI built to display cluster metrics. 
+ 💬 Ask me about Zeus ⚡ an open source Kubernetes Graphical UI built to display cluster metrics from Prometheus and Grafana. 
 
  :desert_island: In my free time I'm an avid guitarist :guitar: runner :runner: and cook :ramen: 
 
