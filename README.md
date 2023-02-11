@@ -9,13 +9,12 @@
 
  💬 Ask me about Zeus ⚡ a new OS Kubernetes Graphical UI built to acquire & display cluster metrics. 
 
- :bulb: You can reach me at wrogejohn@gmail.com
-
- :desert_island: In my free time I'm an avid guitarist :guitar:, runner :runner:, and cook :ramen:! 
+ :bulb: You can reach me at wrogejohn@gmail.com or <a href = "linkedin.com">LinkedIn </a>
+ :desert_island: In my free time I'm an avid guitarist :guitar: runner :runner: and cook :ramen: 
 
 <h2> :earth_americas: Social </h2>
 
-![<Badge LinkedIn>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 <!-- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
  -->
