@@ -1,13 +1,13 @@
 
-<h1> About Me </h1> 
+<h1> :ringed_planet: About Me </h1> 
 
 :wave: Hi, I'm John! 
 
-  :bulb: Software Engineer passionate in building and enhancing features with new and proven methods. 
+  :star2: Software Engineer passionate in building and enhancing features with new and proven methods. 
 
  🌱 Eager to collaborate on inclusive Open Source products for the developer community.
 
- 💬 Ask me about Zeus ⚡ a new OS Kubernetes Graphical UI built to acquire & display cluster metrics. 
+ 💬 Ask me about Zeus ⚡ an open source Kubernetes Graphical UI built to display cluster metrics. 
 
  :envelope_with_arrow: Contact me at wrogejohn@gmail.com 
 
