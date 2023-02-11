@@ -14,6 +14,7 @@
 <h2> :earth_americas: Social </h2>
 
 <a href = "https://www.linkedin.com/in/john-wroge/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<br>
  :envelope_with_arrow: Contact me at wrogejohn@gmail.com 
 
 <!-- ![LinkedIn]() -->
