@@ -3,7 +3,7 @@
 
 :wave: Hi, I'm John! 
 
- 🔭 Software Engineer passionate in building, and enhancing features with new and proven methods. 
+ 🔭 Software Engineer passionate in building and enhancing features with new and proven methods. 
 
  🌱 Eager to collaborate on inclusive Open Source products for the developer community.
 
@@ -11,10 +11,15 @@
 
  :bulb: You can reach me at wrogejohn@gmail.com
 
- :desert_island: In my free time I'm an avid guitarist, runner, and cook! 
+ :desert_island: In my free time I'm an avid guitarist :guitar:, runner :runner:, and cook :ramen:! 
 
 <h2> :earth_americas: Social </h2>
 
+![<Badge LinkedIn>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
+<!-- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+ -->
+<!-- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) -->
 
 <h2> :desktop_computer: Tech Stack </h2>
 
