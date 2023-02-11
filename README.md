@@ -5,17 +5,16 @@
 
   :star2: Software Engineer passionate in building and enhancing features with new and proven methods. 
 
- 🌱 Eager to collaborate on inclusive Open Source products for the developer community.
+ 🌱 Eager to collaborate on inclusive Open Source tools for the developer community.
 
  💬 Ask me about Zeus ⚡ an open source Kubernetes Graphical UI built to display cluster metrics. 
-
- :envelope_with_arrow: Contact me at wrogejohn@gmail.com 
 
  :desert_island: In my free time I'm an avid guitarist :guitar: runner :runner: and cook :ramen: 
 
 <h2> :earth_americas: Social </h2>
 
 <a href = "https://www.linkedin.com/in/john-wroge/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+ :envelope_with_arrow: Contact me at wrogejohn@gmail.com 
 
 <!-- ![LinkedIn]() -->
 
