@@ -9,19 +9,21 @@
 
  💬 Ask me about Zeus ⚡ a new OS Kubernetes Graphical UI built to acquire & display cluster metrics. 
 
- :envelope_with_arrow: Contact me at wrogejohn@gmail.com or [LinkedIn](https://www.linkedin.com/in/john-wroge/)
+ :envelope_with_arrow: Contact me at wrogejohn@gmail.com 
 
  :desert_island: In my free time I'm an avid guitarist :guitar: runner :runner: and cook :ramen: 
 
 <h2> :earth_americas: Social </h2>
 
+[LinkedIn](https://www.linkedin.com/in/john-wroge/)
 
+<h2> :desktop_computer: Tech Stack </h2>
+
+https://img.shields.io/static/v1?logo=linkedin<LABEL>&message=LinkedIn<MESSAGE>&color=blue<COLOR>
 
 <!-- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
  -->
 <!-- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) -->
-
-<h2> :desktop_computer: Tech Stack </h2>
 
 
 
