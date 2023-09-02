@@ -1,7 +1,7 @@
 
 <h1> :ringed_planet: About Me </h1> 
 
-:wave: Hi and Welcome!
+:wave: Hi!
   :star2: I'm John, a Software Engineer excited about building, testing, and deploying new products. <br>
  🌱 Always looking to collaborate on inclusive open source tools for the developer community. <br>
  💬 Ask me about Zeus ⚡ an open source Kubernetes Graphical UI built to display cluster metrics from Prometheus and Grafana. <br>
