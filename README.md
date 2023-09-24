@@ -1,12 +1,12 @@
 
 
-:wave: Hi!
-<p></p>
- I'm a software engineer with a passion for data visualization!
+
+
+:wave: I'm a software engineer with a passion for data visualization, and cloud technologies!
   I'm always looking to collaborate on open source tools for the developer community. <br>
   Ask me about Zeus ⚡ an open source Kubernetes Graphical UI built to display cluster metrics. <br>
   <br>
- In my free time, I play fingerguitar :guitar: <br>
+ In my free time, I play music :guitar: <br>
 <h2> :earth_americas: Social </h2>
 
 <a href = "https://www.linkedin.com/in/john-wroge/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
