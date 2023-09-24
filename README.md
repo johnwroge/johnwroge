@@ -1,7 +1,6 @@
 
-<h1> :ringed_planet: About Me </h1> 
 
-:wave: Hey there!
+:wave: Hi!
 <p></p>
   I'm John, a Software Engineer excited about building, testing, and deploying new products. <br>
  🌱 Always looking to collaborate on inclusive open source tools for the developer community. <br>
