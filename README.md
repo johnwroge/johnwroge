@@ -12,7 +12,7 @@
 <a href = "https://www.linkedin.com/in/john-wroge/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
 
 <br>
- :envelope_with_arrow: Contact me at wrogejohn@gmail.com  <br>
+ :envelope_with_arrow: wrogejohn@gmail.com  <br>
 <h2> :desktop_computer: Tech Stack </h2> <br>
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
