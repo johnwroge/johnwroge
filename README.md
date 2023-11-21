@@ -2,7 +2,7 @@
 
 
 
-:wave: I'm a software engineer with a passion for application development! <br>
+:wave: I'm a software engineer with a passion for application development using React and Node! <br>
   I'm always looking to collaborate on open source tools for the developer community. <br>
   Ask me about Zeus ⚡ an open source Kubernetes Graphical UI built to display cluster metrics built <br>
   with React, Node.js, Prometheus and Grafana. <br>
