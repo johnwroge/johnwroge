@@ -1,6 +1,18 @@
 # Hi, I'm John 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Cloud+Native+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</div>
+
 Software Engineer passionate about cloud-native technologies, infrastructure automation, and building developer tools that make life easier.
+
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/Website-johnwroge.dev-blue?style=flat-square&logo=google-chrome)](https://johnwroge.dev)
+[![Linkedin](https://img.shields.io/badge/-John_Wroge-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/john-wroge)
+[![AWS Badge](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](#)
+  
+</div>
 
 ## 🔭 Currently Working On
 - Building community management software at Hack for LA to help scale host home initiatives
@@ -10,10 +22,10 @@ Software Engineer passionate about cloud-native technologies, infrastructure aut
 ## 🛠️ Tech Stack
 
 ### Languages
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Backend & Infrastructure
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -21,23 +33,45 @@ Software Engineer passionate about cloud-native technologies, infrastructure aut
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Frontend
+### Frontend & Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnwroge&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwroge&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ## 🌟 Recent Projects
-- **Kubernetes AI Query Agent**: Natural language interface for cluster metrics using OpenAI
-- **Kube-Insight Operator**: Automated observability stack deployment for Kubernetes
-- **Community Housing Platform**: Full-stack application helping non-profits manage housing initiatives
-- **Cozy Threads**: Ecommerce application with Stripe payment integration
-- **Stock Portfolio**: Stock tracking application using Alpha Trader API
+
+### Kubernetes AI Query Agent
+Natural language interface for cluster metrics using OpenAI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+
+### Kube-Insight Operator
+Automated observability stack deployment for Kubernetes
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### Community Housing Platform
+Full-stack application helping non-profits manage housing initiatives
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 
-
-## 📫 Connect With Me
-- [Personal Website](https://johnwroge.dev)
-- [LinkedIn](https://linkedin.com/in/john-wroge)
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=johnwroge&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
 
 Always excited to collaborate on interesting projects, especially in the cloud-native and developer tools space!
