@@ -31,6 +31,10 @@ Software Engineer passionate about cloud-native technologies, infrastructure aut
 - **Kubernetes AI Query Agent**: Natural language interface for cluster metrics using OpenAI
 - **Kube-Insight Operator**: Automated observability stack deployment for Kubernetes
 - **Community Housing Platform**: Full-stack application helping non-profits manage housing initiatives
+- **Cozy Threads**: Ecommerce application with Stripe payment integration
+- **Stock Portfolio**: Stock tracking application using Alpha Trader API
+
+
 
 ## 📫 Connect With Me
 - [Personal Website](https://johnwroge.dev)
