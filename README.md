@@ -9,7 +9,7 @@ Software Engineer passionate about cloud-native technologies, infrastructure aut
 <div align="center">
   
 [![Website](https://img.shields.io/badge/Website-johnwroge.dev-blue?style=flat-square&logo=google-chrome)](https://johnwroge.dev)
-[![Linkedin](https://img.shields.io/badge/-John_Wroge-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/john-wroge)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/john-wroge)
 [![AWS Badge](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](#)
   
 </div>
