@@ -1,17 +1,24 @@
-# John Wroge
+# Hi, I'm John 👋
 
-Full Stack Engineer specializing in cloud-native systems and observability. Currently focused on Kubernetes monitoring and metrics collection with Prometheus and Grafana.
+Software Engineer passionate about cloud-native technologies, infrastructure automation, and building developer tools that make life easier.
 
-## Technologies
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+## 🔭 Currently Working On
+- Building community management software at Hack for LA to help scale host home initiatives
+- Exploring Kubernetes operators and custom controllers
+- Contributing to open-source observability tools
 
-## Recent Work
-- Built Kubernetes operator managing Prometheus, Loki, and Grafana deployments
-- Developed AI-powered monitoring agent for natural language cluster queries
-- Contributed to open-source host home management platform
+## 🛠️ Tech Stack
+- Backend: Python, Go, TypeScript, FastAPI, Node.js
+- Infrastructure: Kubernetes, Docker, AWS
+- Frontend: React, Next.js, Tailwind
 
-[Portfolio](https://johnwroge.dev) • [LinkedIn](https://linkedin.com/in/john-wroge/)
+## 🌟 Recent Projects
+- **Kubernetes AI Query Agent**: Natural language interface for cluster metrics using OpenAI
+- **Kube-Insight Operator**: Automated observability stack deployment for Kubernetes
+- **Community Housing Platform**: Full-stack application helping non-profits manage housing initiatives
+
+## 📫 Connect With Me
+- [Personal Website](https://johnwroge.dev)
+- [LinkedIn](https://linkedin.com/in/john-wroge)
+
+Always excited to collaborate on interesting projects, especially in the cloud-native and developer tools space!
