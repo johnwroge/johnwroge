@@ -70,8 +70,6 @@ Full-stack application helping non-profits manage housing initiatives
 
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=johnwroge&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
+
 
 Always excited to collaborate on interesting projects, especially in the cloud-native and developer tools space!
