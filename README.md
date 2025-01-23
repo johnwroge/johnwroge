@@ -45,13 +45,6 @@ Software Engineer passionate about cloud-native technologies, infrastructure aut
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnwroge&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwroge&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ## 🌟 Recent Projects
 
 ### Kubernetes AI Query Agent
