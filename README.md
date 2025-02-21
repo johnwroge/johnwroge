@@ -60,12 +60,8 @@ Automated observability stack deployment for Kubernetes
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/johnwroge/kube-insight-operator)](https://goreportcard.com/report/github.com/johnwroge/kube-insight-operator)
-![Development Status](https://img.shields.io/badge/status-experimental-orange)
-![Version](https://img.shields.io/badge/version-v0.0.1-blue)
-[![Go Reference](https://pkg.go.dev/badge/github.com/johnwroge/kube-insight-operator.svg)](https://pkg.go.dev/github.com/johnwroge/kube-insight-operator)
+
 
 
 ---
