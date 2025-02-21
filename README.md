@@ -54,8 +54,18 @@ Natural language interface for cluster metrics using OpenAI
 
 ### Kube-Insight Operator
 Automated observability stack deployment for Kubernetes
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/johnwroge/kube-insight-operator)](https://goreportcard.com/report/github.com/johnwroge/kube-insight-operator)
+![Development Status](https://img.shields.io/badge/status-experimental-orange)
+![Version](https://img.shields.io/badge/version-v0.0.1-blue)
+[![Go Reference](https://pkg.go.dev/badge/github.com/johnwroge/kube-insight-operator.svg)](https://pkg.go.dev/github.com/johnwroge/kube-insight-operator)
 
 
 ---
