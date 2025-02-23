@@ -1,4 +1,3 @@
-Here's your complete README:
 
 # Hi, I'm John 👋
 <div align="center">
