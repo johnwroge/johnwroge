@@ -21,9 +21,10 @@ Software Engineer passionate about cloud-native technologies, infrastructure aut
 - Contributing to open-source observability tools
 
 ## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -41,45 +42,21 @@ Software Engineer passionate about cloud-native technologies, infrastructure aut
 ## 🌟 Recent Projects
 
 ### [Kube-Insight Operator](https://github.com/johnwroge/kube-insight-operator)
-Kube-Insight Operator is a Kubernetes operator that automates the deployment and management of a complete observability stack. It seamlessly integrates Prometheus, Grafana, Loki, and Tempo, providing unified metrics, logs, and traces for Kubernetes clusters.
+Kube-Insight Operator is a Kubernetes operator that automates the deployment and management of a complete observability stack using Grafana, Prometheus, Loki, and Tempo.
 
-#### Features
-- Automated deployment of Prometheus, Grafana, Loki, and Tempo
-- Preconfigured dashboards and alert rules
-- Simplified observability lifecycle management
-- Custom resource for declarative configuration
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ### [Kubernetes AI Query Agent](https://github.com/johnwroge/k8s-ai-query)
-A natural language interface for querying Kubernetes cluster metrics using OpenAI's GPT models. This tool translates plain English questions into PromQL queries, making cluster monitoring more accessible.
+A natural language interface for querying Kubernetes cluster metrics using OpenAI's GPT models.
 
-#### Features
-- Natural language to PromQL translation
-- Integration with Prometheus metrics
-- Context-aware query generation
-- User-friendly metric exploration
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### [Community Care](https://github.com/johnwroge/Community-Care)
-A workflow management platform for Hack for LA that helps scale host home initiatives across California. The platform connects hosts with guests while streamlining the matching and onboarding process.
-
-#### Features
-- Automated matching system
-- Host/guest profiles and preferences
-- Document management
-- Progress tracking
-- Communication tools
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
