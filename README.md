@@ -42,12 +42,13 @@ Software Engineer passionate about cloud-native technologies, infrastructure aut
 ## 🌟 Recent Projects
 
 ### [Kube-Insight Operator](https://github.com/johnwroge/kube-insight-operator)
-Kube-Insight Operator is a Kubernetes operator that automates the deployment and management of a complete observability stack using Grafana, Prometheus, Loki, and Tempo.
+A Kubernetes operator that automates the deployment and management of a complete observability stack using Grafana, Prometheus, Loki, and Tempo.
 
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
 
 ### [Kubernetes AI Query Agent](https://github.com/johnwroge/k8s-ai-query)
 A natural language interface for querying Kubernetes cluster metrics using OpenAI's GPT models.
