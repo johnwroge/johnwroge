@@ -50,7 +50,7 @@ A Kubernetes operator that automates the deployment and management of a complete
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 
-### [Kubernetes AI Query Agent](https://github.com/johnwroge/k8s-ai-query)
+### [Kubernetes AI Query Agent](https://github.com/johnwroge/K8_AI_Query_Agent)
 A natural language interface for querying Kubernetes cluster metrics using OpenAI's GPT models.
 
 
