@@ -20,8 +20,10 @@ Software Engineer passionate about cloud-native technologies, infrastructure aut
 - Contributing to open-source observability tools
 
 ## 🛠️ Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,ts,kubernetes,docker,aws,github,react,nextjs,fastapi,nodejs,postgres,mongodb" />
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+</p>
 
 Always excited to collaborate on interesting projects, especially in the cloud-native and developer tools space! Feel free to reach out if you'd like to discuss technology, open source, or potential collaborations.
