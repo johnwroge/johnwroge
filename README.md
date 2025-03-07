@@ -1,9 +1,12 @@
 # Hi, I'm John 👋
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Cloud+Native+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</div>
-Software Engineer passionate about cloud-native technologies, infrastructure automation, and building developer tools that make life easier.
 
+Full Stack Engineer specializing in high-performance, scalable web applications with a focus on exceptional user experiences. Currently at Hack for LA, I'm developing workflow management software that expands host home initiatives across California. 
+
+I'm passionate about open-source development, particularly in the areas of observability, monitoring solutions, and developer tooling. My work with Kubernetes and containerized environments has helped teams improve visibility and resource optimization in complex infrastructures.
+
+When I'm not coding, you'll find me practicing classical guitar or exploring NYC's coffee shops.
+
+Let's connect! Reach me at wrogejohn@gmail.com
 <div align="center">
   <a href="https://johnwroge.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-johnwroge.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"/>
