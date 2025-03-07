@@ -5,9 +5,15 @@
 Software Engineer passionate about cloud-native technologies, infrastructure automation, and building developer tools that make life easier.
 
 <div align="center">
-  <a href="https://johnwroge.dev"><img src="https://img.shields.io/badge/Website-johnwroge.dev-blue?style=flat-square&logo=google-chrome" alt="Website"></a>
-  <a href="https://linkedin.com/in/john-wroge"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Badge"></a>
+  <a href="https://johnwroge.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-johnwroge.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"/>
+  </a>
+  <a href="https://linkedin.com/in/john-wroge" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certification"/>
+  </a>
 </div>
 
 ## 🛠️ Tech Stack
