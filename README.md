@@ -20,9 +20,7 @@ Software Engineer passionate about cloud-native technologies, infrastructure aut
 - Contributing to open-source observability tools
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/golang.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg" width="40" height="40"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,ts,kubernetes,docker,aws,github,react,nextjs,fastapi,nodejs,postgres,mongodb" />
+</div>
 Always excited to collaborate on interesting projects, especially in the cloud-native and developer tools space! Feel free to reach out if you'd like to discuss technology, open source, or potential collaborations.
