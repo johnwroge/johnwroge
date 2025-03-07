@@ -2,7 +2,7 @@
 
 Full Stack Engineer specializing in high-performance, scalable web applications with a focus on exceptional user experiences. Currently at Hack for LA, I'm developing workflow management software that expands host home initiatives across California. 
 
-I'm passionate about open-source development, particularly in the areas of observability, monitoring solutions, and developer tooling. My work with Kubernetes and containerized environments has helped teams improve visibility and resource optimization in complex infrastructures.
+I'm passionate about open-source development, particularly in the areas of observability, monitoring solutions, and developer tooling. I enjoy working with Kubernetes and containerized environments to explore better ways to understand and manage complex infrastructures.
 
 When I'm not coding, you'll find me practicing classical guitar or exploring NYC's coffee shops.
 
@@ -20,6 +20,9 @@ Let's connect! Reach me at wrogejohn@gmail.com
 </div>
 
 ## 🛠️ Tech Stack
+
+Here are some of the tools I have been using recently. 
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70" height="70" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70" alt="JavaScript" />
