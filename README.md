@@ -21,8 +21,8 @@ Software Engineer passionate about cloud-native technologies, infrastructure aut
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/000000/golang.png"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
 </p>
 Always excited to collaborate on interesting projects, especially in the cloud-native and developer tools space! Feel free to reach out if you'd like to discuss technology, open source, or potential collaborations.
