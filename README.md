@@ -40,7 +40,6 @@ Here are some of the technologies I have been using recently.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="70" height="70" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" width="70" height="70" alt="Prometheus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="70" height="70" alt="Grafana" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="70" height="70" alt="Git" />
 </div>
 
 Always excited to collaborate on interesting projects, especially in the cloud-native and developer tools space! Feel free to reach out if you'd like to discuss technology, open source, or potential collaborations.
