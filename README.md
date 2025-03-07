@@ -21,7 +21,6 @@ Let's connect! Reach me at wrogejohn@gmail.com
 
 ## 🛠️ Tech Stack
 
-I enjoy creating web applications with React and FastAPI, balancing frontend interactivity with backend performance. 
 Here are some of the technologies I have been using recently. 
 
 <div align="center">
