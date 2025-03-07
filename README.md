@@ -21,6 +21,6 @@ Software Engineer passionate about cloud-native technologies, infrastructure aut
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,ts,kubernetes,docker,aws,github,react,nextjs,fastapi,nodejs,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,go,ts,kubernetes,docker,aws,github,react,nextjs,fastapi,nodejs,postgres,mongodb&perline=7&size=50" />
 </div>
 Always excited to collaborate on interesting projects, especially in the cloud-native and developer tools space! Feel free to reach out if you'd like to discuss technology, open source, or potential collaborations.
