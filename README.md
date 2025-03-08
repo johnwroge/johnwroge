@@ -4,8 +4,6 @@ Full Stack Engineer specializing in high-performance, scalable web applications 
 
 I'm passionate about open-source development, particularly in the areas of observability, monitoring solutions, and developer tooling. I enjoy working with Kubernetes and containerized environments to explore better ways to understand and manage complex infrastructures.
 
-When I'm not coding, you'll find me practicing classical guitar or exploring NYC's coffee shops.
-
 Let's connect! Reach me at wrogejohn@gmail.com
 <div align="center">
   <a href="https://johnwroge.dev" target="_blank">
