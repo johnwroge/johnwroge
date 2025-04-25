@@ -2,7 +2,7 @@
 
 Software Engineer with experience building scalable web applications with a focus on exceptional user experiences. 
 
-I'm passionate about open-source development, particularly in the areas of observability, monitoring solutions, and developer tooling. I enjoy working with Kubernetes and containerized environments to explore better ways to understand and manage complex infrastructures.
+I'm passionate about open-source development, particularly in the areas of observability, monitoring solutions, and developer tooling. 
 
 Let's connect! Reach me at wrogejohn@gmail.com
 <div align="center">
