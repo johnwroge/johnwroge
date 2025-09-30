@@ -1,6 +1,6 @@
 # John Wroge
 
-Backend engineer focused on infrastructure automation and developer tooling. I build systems that help engineering teams deploy and monitor applications at scale.
+Software engineer focused on infrastructure automation and developer tooling. I build systems that help engineering teams deploy and monitor applications at scale.
 
 Currently contributing to open-source Kubernetes monitoring tools and exploring AI-powered developer experiences.
 
