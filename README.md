@@ -7,7 +7,6 @@ I'm interested in making complex systems more accessible through better abstract
 I contribute to open source projects, write about technical topics, and enjoy working on problems that sit at the intersection of different domains. 
 
 **Contact:** wrogejohn@gmail.com
-**Website:** johnwroge.dev
 
 <div align="center">
   <a href="https://johnwroge.dev">
