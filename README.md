@@ -2,9 +2,7 @@
 
 I'm a software engineer who builds systems across the stack. I work on infrastructure tooling, web applications, and developer experiences that help teams ship better software.
 
-I'm interested in making complex systems more accessible through better abstractions, clearer interfaces, and AI-assisted workflows. My recent projects include Kubernetes operators, natural language query systems, and machine learning applications.
-
-I contribute to open source projects, write about technical topics, and enjoy working on problems that sit at the intersection of different domains. 
+I'm interested in making complex systems more accessible through better abstractions, clearer interfaces, and AI-assisted workflows. 
 
 **Contact:** wrogejohn@gmail.com
 
